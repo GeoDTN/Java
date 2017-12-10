@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>esercizio JQuery</title>
+</head>
+<body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js">
+</script>
+<script>
+$(document).ready(function(){
+	$("#bottone1").click(function(){
+		$("h1").empty();
+		});
+	$("#bottone2").click(function(){
+		$("#primoDiv").css("color", "red");
+		});
+	$("#bottone3").mouseenter(function(){
+		$("#secondoDiv").text("abc");
+	});
+});
+</script>
+<h1>Primo titolo</h1>
+<h1>Secondo titolo</h1>
+<h1>Terzo titolo</h1>
+<br/>
+<button id="bottone1">Bottone 1</button>
+<button id="bottone2">Bottone 2</button>
+<button id="bottone3">Bottone 3</button>
+<br/>
+<div id="primoDiv">Primo elemento div</div>
+<div id="secondoDiv">Secondo elemento div</div>
+<hr/>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

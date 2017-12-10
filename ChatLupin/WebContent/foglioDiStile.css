@@ -1,0 +1,100 @@
+@CHARSET "ISO-8859-1";
+
+/* Imposta il background del body pagina login.jsp */
+#body-login {
+	background-image: url('img_login.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#login-container {
+	width: 60%;
+	text-align: left;
+	margin-top: 25px;
+	margin-left: 50px;
+}
+
+input {
+	min-height: 30px;
+	font-size: 18px;
+}
+
+h2.header2 {
+	color: #e74c3c;
+	font-family: monospace;
+	font-size: 40px;
+	margin: auto;
+	font-family: 'toledo';
+	font-style: oblique;
+}
+
+h1#benvenuti {
+	color: #550020;
+	font-size: 65px;
+	margin-left: 25px;
+	font-family: 'toledo';
+	font-style: oblique;
+}
+
+@FONT-FACE {
+	font-family: 'toledo';
+	src: local('toledo.TTF');
+}
+
+/* ========== Home ========== */
+#body-home {
+	background-image: url('img_home.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: inherit;
+}
+
+#text_messaggi {
+	margin-left: 50px;
+	border: 5px solid #ccc;
+	height: 450px;
+	width: 1000px;
+	background: rgba(255, 255, 255, 0.8);
+	font-family: toledo;
+	font-size: 25px;
+}
+
+#invia_messaggi {
+	margin-left: 50px;
+	border: 5px solid #ccc;
+	height: 80px;
+	width: 1000px;
+	background: rgba(255, 255, 255, 0.8);
+	font-family: toledo;
+	font-size: 25px;
+}
+
+.home_btn_messaggio {
+	margin-left: 50px;
+}
+
+/* Affiancamento dei due div presenti nel DOM */
+#messaggi, #utenti {
+	float: left;
+}
+
+#lista_utenti {
+	margin-left: 110px;
+	text-align: left;
+	height: 450px;
+	border: 5px solid #ccc;
+	background: rgba(255, 255, 255, 0.7);
+	font-family: toledo;
+	font-size: 25px;
+}
+
+#benvenuto {
+	margin-top: -5px;
+	text-align: center;
+	color: white;
+	font-family: toledo;
+	font-size: 65px;
+}

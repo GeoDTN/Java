@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+   <head>
+      <title>The JQuery Example</title>
+      <script type = "text/javascript" 
+         src = "/JQueryPrj/JS/jquery-1.4.min.js"></script>
+		
+      <script type = "text/javascript" language = "javascript">
+         $(document).ready(function() {
+            $("li").filter(".middle").addClass("selected");
+         });
+      </script>
+		
+      <style>
+         .selected { color:red; }
+         .bottom { color:green; }
+      </style>
+   </head>
+	
+   <body>
+	
+      <div>
+         <ul>
+            <li class = "top">list item 1</li>
+            <li class = "top">list item 2</li>
+            <li class = "middle">list item 3</li>
+            <li class = "middle">list item 4</li>
+            <li class = "bottom">list item 5</li>
+            <li class = "bottom">list item 6</li>
+         </ul>
+      </div>
+		
+   </body>
+	
+</html>
+
+
+

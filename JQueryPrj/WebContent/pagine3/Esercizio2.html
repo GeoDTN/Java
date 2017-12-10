@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JQuery: esercizio 2</title>
+</head>
+<body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js">
+</script>
+<div>
+<button>Documento_1</button>
+<button>Documento_2</button>
+<button>Documento_3</button>
+<button>Documento_4</button>
+</div>
+<hr/>
+<div id="zonaDinamica">
+Seleziona il documento da visualizzare
+</div>
+<hr/>
+Resto del documento<br/>
+...
+<script>
+$(document).ready(function(){
+	$("button").click(function(){
+	$("#zonaDinamica").load(this.innerHTML+".htm",
+	function(responseTxt, statusTxt, xhr){
+	if(statusTxt == "success") alert("Caricamento terminato");
+	if(statusTxt == "error") alert("Errore"+xhr.status+":"+xhr.statusText);
+	});
+	});
+});
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

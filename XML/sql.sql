@@ -1,0 +1,1 @@
+insert into bella select all

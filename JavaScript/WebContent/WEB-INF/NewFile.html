@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Validation form</title>
+<script>
+function validateForm()
+{
+    var nome = $("#nome").val();
+    if (nome=="" || nome==null) { } else {
+        alert("Please enter your name");
+    }
+   
+    var cogmome = $("#cognome").val();
+    if (cognome=="" || cognome==null) { } else {
+        alert("Please enter your cognome");
+    }
+     
+    var matricola = $("#matricola").val();
+    if (matricola=="" || matricola==null) { } else {
+        alert("Please enter your cognome");
+    }
+    var email = $("#email").val();
+    if ((/(.+)@(.+){2,}\.(.+){2,}/.test(email)) || email=="" || email==null) { } 
+    else {
+        alert("Please enter a valid email");
+    }
+  return false;
+}
+</script> 
+</head>
+<body>
+<form name="myForm"  method="post" onsubmit="return validateForm()" >
+         <table cellspacing="2" cellpadding="2" border="1"> 
+            
+            <tr>
+               <td align="right">Name</td>
+               <td><input type="text" name="nome"  id="nome" /></td>
+            </tr>
+            <tr>
+               <td align="right">Cognome</td>
+               <td><input type="text" name="cognome" id="cognome"  /></td>
+            </tr>
+            <tr>
+               <td align="right">matricola</td>
+               <td><input type="text" name="matricola" id="matricola" /></td>
+            </tr>
+            <tr>
+               <td align="right">EMail</td>
+               <td><input type="text" name="EMail" id="email"  /></td>
+              
+            </tr>
+                                    
+            <tr>
+               <td align="right">Region</td>
+               <td>
+                  <select name="regione">
+                     <option value="-1" selected>[choose your region]</option>
+                     <option value="1">Lombardia</option>
+                     <option value="2">Emilia</option>
+                     <option value="3">Napoli</option>
+                  </select>
+               </td>
+            </tr>
+            
+            <tr>
+               <td align="right"></td>
+               <td><input type="submit" value="Submit" /></td>
+            </tr>
+</table>
+      </form>
+
+</body>
+</html>

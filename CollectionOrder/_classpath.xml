@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/Struts/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/Struts/struts2-core-2.3.16.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/xwork-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/google-code-prettify-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/struts2-fullhibernatecore-plugin-2.2.2-GA.zip"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/hibernate-core-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/hibernate-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/hibernate-core-5.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/hibernate-core-5.0.11.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/lucene-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/required/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/provided/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/provided/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/provided/jboss-jms-api_2.0_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/provided/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/hibernate-search-engine-5.5.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/hibernate-search-orm-5.5.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/backend-jms/hibernate-search-backend-jms-5.5.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/backend-jgroups/jgroups-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/backend-jgroups/hibernate-search-backend-jgroups-5.5.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/avro-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/commons-compress-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/hibernate-search-serialization-avro-5.5.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/hibernate-search-5.5.5.Final-dist/hibernate-search-5.5.5.Final/dist/lib/optional/clustering/serialization-avro/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/jar_files/ant-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/jar_files/ant-commons-logging-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/jar_files/ant-launcher-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/jar_files/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

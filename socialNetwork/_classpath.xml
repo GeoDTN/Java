@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Desktop/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/javax.servlet-3.0.jar/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/servlet-api-3.0.jar/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/com.mysql.jdbc_5.1.5.jar/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xtphere/Downloads/mysql.jar/mysql.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

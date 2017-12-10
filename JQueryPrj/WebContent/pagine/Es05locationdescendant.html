@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+   <head>
+      <title>The JQuery Example</title>
+      <script type = "text/javascript" 
+         src = "/JQueryPrj/JS/jquery-1.4.min.js"></script>
+		
+      <script type = "text/javascript" language = "javascript">
+         $(document).ready(function() {
+            $("p").find("span").addClass("selected");
+         });
+      </script>
+		
+      <style>
+         .selected { color:red; }
+      </style>
+   </head>
+	
+   <body>
+      <p>This is 1st paragraph and <span>THIS IS RED</span></p>
+      <p>This is 2nd paragraph and <span>THIS IS ALSO RED</span></p>
+      <span>THIS IS no RED</span>
+   </body>
+	
+</html>
+
+
+

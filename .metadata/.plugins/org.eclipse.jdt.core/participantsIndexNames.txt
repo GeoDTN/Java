@@ -1,0 +1,37 @@
+INDEX VERSION 1.126
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2590781592.index
+\chat\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3109731741.index
+\CollectionOrder\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2997812033.index
+\JavaScriptWithGglmap\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1233536415.index
+\Esercizi\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3496945872.index
+\Session\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\446281735.index
+\EsServlet\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2644142495.index
+\MVCDemo\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3463853114.index
+\DatabaseView\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1807244380.index
+\JavaScript\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\817485742.index
+\Servlet1\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\917635176.index
+\JavaScript\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2360640899.index
+\Struts2Demo\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2352408624.index
+\ShitChat\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1707931417.index
+\CollectionOrder\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\617191600.index
+\SocialNetwork\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\35764061.index
+\StrutsExercise\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\653923155.index
+\AjaxPrj\src
+C:\Users\xtphere\Desktop\Corso Java\mioambiente\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3659491018.index
+\socialNetwork\src

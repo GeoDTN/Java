@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>My First HTML Exercise</title>
+</head>
+<body>
+<form action="" id="myForm">
+<p> 
+First name:<br>
+  <input id="id1" type="text" name="firstname" value=" ">
+  </p> 
+  <br>
+  <p> 
+  Last  name:<br>
+  <input id="id2" type="text" name="lastname" value=" ">
+  <br>
+  <p> 
+  Matricolla:<br>
+  <input  id="id3" type="text" name="Matricola" value=" ">
+  </p> 
+  <br>
+  <p> 
+  Region:<br>
+  <input id="id4" type="text" name="Region" value=" ">
+  </p> 
+  <br>
+  <p> 
+  Email:<br>
+  <input id="id5" type="text" name="Email" value=" ">
+  </p> 
+  <br>
+  <p> 
+  Telefono:<br>
+  <input id="id6" type="text" name="Telefono" value=" ">
+  </p> 
+  <br>
+  <p> 
+  Rechieste:<br>
+  <input id="id7" type="text" name="Rechieste" value=" ">
+  </p> 
+  <br>
+  <input type="submit" value="Submit">
+  <input type="button" onclick="myFunction()" value="Reset form">
+  <script>
+function myFunction() {
+    document.getElementById("myForm").reset();
+}
+
+function myFunction() {
+    var inpObj = document.getElementById("id1");
+    if (inpObj.checkValidity() == false) {
+        document.getElementById("demo").innerHTML = inpObj.validationMessage;
+    } else {
+        document.getElementById("demo").innerHTML = "Input OK";
+    } 
+} 
+</script>
+
+</form>
+
+</body>
+</html>
